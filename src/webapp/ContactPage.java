@@ -5,6 +5,7 @@ public class ContactPage {
     // Facebook
     // instagram
     // Twitter
-    //Youtube
-    //Email
+    // Youtube
+    // Email
+    // Telegram
 }
