@@ -10,6 +10,10 @@ public class homePage {
 
     //logo
 
+    //add mre things
+
+    //footer
+
 
 
 }
